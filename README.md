@@ -1,6 +1,4 @@
-These exercises were based on the Odin Project's data structures and algorithms for ruby.
-
-http://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms?ref=lc-pb
+These exercises were based on the [Odin Project's](http://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms?ref=lc-pb) data structures and algorithms for ruby.
 
 The binary tree exercise was to familiarize myself with how binary trees worked. My program creates a binary tree from an input array (hopefully sorted, to make the most balanced tree possible). It can also search the tree using breadth first or depth first searches. The depth first search was implemented two ways, using loops and using a recursive method to search the tree.
 
